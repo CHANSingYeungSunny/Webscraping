@@ -1,0 +1,784 @@
+{
+    "NUE": {
+        "NUE": {
+            "collection_date": "2024-08-06 13:53:35",
+            "price": "152.68",
+            "gex_flip_price": "155.68",
+            "skew_adjusted_gex": "153479.65936248002",
+            "gex_per_1pct_chg": "-1136886.365648",
+            "call_put_delta_spread": "0.032110307851410974",
+            "implied_volatility": "0.3431796130952381",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "14318.893789200003",
+            "put_call_ratio_open_interest": "0.84",
+            "gamma_formation": "0",
+            "average_volume": "1425767",
+            "rating": "1"
+        }
+    },
+    "VLO": {
+        "VLO": {
+            "collection_date": "2024-08-06 13:56:14",
+            "price": "149.55",
+            "gex_flip_price": "148.01",
+            "skew_adjusted_gex": "-646150.6052552251",
+            "gex_per_1pct_chg": "1883821.0065750002",
+            "call_put_delta_spread": "0.07116370856451615",
+            "implied_volatility": "0.3973347966269841",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "609251.8232146502",
+            "put_call_ratio_open_interest": "0.6",
+            "gamma_formation": "0",
+            "average_volume": "1961347",
+            "rating": "5"
+        }
+    },
+    "ARCH": {
+        "ARCH": {
+            "collection_date": "2021-11-15 20:35:42",
+            "price": "81.18",
+            "gex_flip_price": "72.5",
+            "skew_adjusted_gex": "-47217.74001714001",
+            "gex_per_1pct_chg": "122643.48056400001",
+            "call_put_delta_spread": "0.06212661790118179",
+            "implied_volatility": "0.6599776909722221",
+            "next_expiration": "2021-11-19",
+            "nearest_gex_value": "-12296.639999160001",
+            "put_call_ratio_open_interest": "0.58",
+            "gamma_formation": "0",
+            "average_volume": "365604",
+            "rating": "None"
+        }
+    },
+    "COP": {
+        "COP": {
+            "collection_date": "2024-08-06 13:32:46",
+            "price": "104.55",
+            "gex_flip_price": "108.3",
+            "skew_adjusted_gex": "673425.2780415",
+            "gex_per_1pct_chg": "-4988335.392899999",
+            "call_put_delta_spread": "0.0385978989750336",
+            "implied_volatility": "0.3184029365079365",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "15863.182003125",
+            "put_call_ratio_open_interest": "0.85",
+            "gamma_formation": "0",
+            "average_volume": "5924671",
+            "rating": "1"
+        }
+    },
+    "AMR": {
+        "AMR": {
+            "collection_date": "2022-03-21 14:09:45",
+            "price": "124.6305",
+            "gex_flip_price": "97.5",
+            "skew_adjusted_gex": "-448960.49254649895",
+            "gex_per_1pct_chg": "2107795.7396549247",
+            "call_put_delta_spread": "0.07887222584839547",
+            "implied_volatility": "0.9251151437114197",
+            "next_expiration": "2022-04-14",
+            "nearest_gex_value": "-319.664232292545",
+            "put_call_ratio_open_interest": "0.16",
+            "gamma_formation": "0",
+            "average_volume": "86613",
+            "rating": "None"
+        }
+    },
+    "BXC": {
+        "BXC": {
+            "collection_date": "2022-05-04 19:08:34",
+            "price": "94.84",
+            "gex_flip_price": "52.09",
+            "skew_adjusted_gex": "-189985.291439504",
+            "gex_per_1pct_chg": "325875.285488",
+            "call_put_delta_spread": "0.3436251568679931",
+            "implied_volatility": "0.6965961123511905",
+            "next_expiration": "2022-05-20",
+            "nearest_gex_value": "-186786.532737376",
+            "put_call_ratio_open_interest": "0.74",
+            "gamma_formation": "6",
+            "average_volume": "438896",
+            "rating": "None"
+        }
+    },
+    "SU": {
+        "SU": {
+            "collection_date": "2022-11-22 19:58:11",
+            "price": "35.945",
+            "gex_flip_price": "20.53",
+            "skew_adjusted_gex": "-888268.054663717",
+            "gex_per_1pct_chg": "12003622.360320501",
+            "call_put_delta_spread": "0.01807064343958284",
+            "implied_volatility": "0.41564662698412697",
+            "next_expiration": "2022-11-25",
+            "nearest_gex_value": "-15651.550796245003",
+            "put_call_ratio_open_interest": "0.35",
+            "gamma_formation": "6",
+            "average_volume": "2283806",
+            "rating": "None"
+        }
+    },
+    "TA": {
+        "TA": {
+            "collection_date": "2022-08-04 14:42:16",
+            "price": "52.45",
+            "gex_flip_price": "31.76",
+            "skew_adjusted_gex": "-9781.326938875",
+            "gex_per_1pct_chg": "41622.667825000004",
+            "call_put_delta_spread": "0.04889863644099887",
+            "implied_volatility": "0.4557879340277778",
+            "next_expiration": "2022-08-19",
+            "nearest_gex_value": "-3160.4892221250007",
+            "put_call_ratio_open_interest": "0.54",
+            "gamma_formation": "6",
+            "average_volume": "59265",
+            "rating": "None"
+        }
+    },
+    "CVX": {
+        "CVX": {
+            "collection_date": "2024-08-06 13:31:03",
+            "price": "143.8",
+            "gex_flip_price": "149.86",
+            "skew_adjusted_gex": "2838348.522450001",
+            "gex_per_1pct_chg": "-21024803.870000005",
+            "call_put_delta_spread": "0.04878486994003675",
+            "implied_volatility": "0.2900374503968254",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "608733.9845640003",
+            "put_call_ratio_open_interest": "0.7",
+            "gamma_formation": "5",
+            "average_volume": "9974784",
+            "rating": "2"
+        }
+    },
+    "LTHM": {
+        "LTHM": {
+            "collection_date": "2024-02-15 20:40:52",
+            "price": "16.51",
+            "gex_flip_price": "4.0",
+            "skew_adjusted_gex": "-22193.956934578007",
+            "gex_per_1pct_chg": "38068.53676600001",
+            "call_put_delta_spread": "0.2342582180731791",
+            "implied_volatility": "2.884366572971781",
+            "next_expiration": "2024-02-16",
+            "nearest_gex_value": "1191.8564872500003",
+            "put_call_ratio_open_interest": "0.6",
+            "gamma_formation": "6",
+            "average_volume": "0",
+            "rating": "4"
+        }
+    },
+    "MHO": {
+        "MHO": {
+            "collection_date": "2024-08-06 13:45:13",
+            "price": "144.81",
+            "gex_flip_price": "67.5",
+            "skew_adjusted_gex": "-42232.402808595",
+            "gex_per_1pct_chg": "179712.352377",
+            "call_put_delta_spread": "0.058390795566995",
+            "implied_volatility": "0.4703579513888889",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "-12221.278759079998",
+            "put_call_ratio_open_interest": "0.44",
+            "gamma_formation": "6",
+            "average_volume": "287729",
+            "rating": "4"
+        }
+    },
+    "XOM": {
+        "XOM": {
+            "collection_date": "2024-08-06 13:33:45",
+            "price": "114.1",
+            "gex_flip_price": "112.57",
+            "skew_adjusted_gex": "-973228.1717074",
+            "gex_per_1pct_chg": "13151732.0501",
+            "call_put_delta_spread": "0.013135419981866181",
+            "implied_volatility": "0.3126678720238095",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-90231.28910039998",
+            "put_call_ratio_open_interest": "0.7",
+            "gamma_formation": "0",
+            "average_volume": "12356548",
+            "rating": "3"
+        }
+    },
+    "HLIT": {
+        "HLIT": {
+            "collection_date": "2022-09-28 15:05:12",
+            "price": "12.24",
+            "gex_flip_price": "3.75",
+            "skew_adjusted_gex": "-36650.273508287995",
+            "gex_per_1pct_chg": "62864.963136",
+            "call_put_delta_spread": "0.18164262002276044",
+            "implied_volatility": "0.4778320436507937",
+            "next_expiration": "2022-10-21",
+            "nearest_gex_value": "-33386.240904192",
+            "put_call_ratio_open_interest": "0.07",
+            "gamma_formation": "0",
+            "average_volume": "516856",
+            "rating": "None"
+        }
+    },
+    "SMCI": {
+        "SMCI": {
+            "collection_date": "2024-08-06 14:16:02",
+            "price": "604.48",
+            "gex_flip_price": "686.69",
+            "skew_adjusted_gex": "8619002.702162946",
+            "gex_per_1pct_chg": "-25128287.761408",
+            "call_put_delta_spread": "0.10289437880218955",
+            "implied_volatility": "0.9020382539682539",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "41359.181208576",
+            "put_call_ratio_open_interest": "0.95",
+            "gamma_formation": "0",
+            "average_volume": "6322226",
+            "rating": "1"
+        }
+    },
+    "DINO": {
+        "DINO": {
+            "collection_date": "2024-08-06 14:10:16",
+            "price": "46.415",
+            "gex_flip_price": "53.47",
+            "skew_adjusted_gex": "40139.373611666",
+            "gex_per_1pct_chg": "-117024.412862",
+            "call_put_delta_spread": "0.07376209571100914",
+            "implied_volatility": "0.3902751488095238",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "13729.5574687915",
+            "put_call_ratio_open_interest": "0.88",
+            "gamma_formation": "5",
+            "average_volume": "1161765",
+            "rating": "2"
+        }
+    },
+    "MPC": {
+        "MPC": {
+            "collection_date": "2024-08-06 13:34:02",
+            "price": "167.2701",
+            "gex_flip_price": "163.63",
+            "skew_adjusted_gex": "-90810.69096202902",
+            "gex_per_1pct_chg": "1227171.4994868787",
+            "call_put_delta_spread": "0.01734331275232945",
+            "implied_volatility": "0.39999000496031745",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-9979.651856748289",
+            "put_call_ratio_open_interest": "0.78",
+            "gamma_formation": "0",
+            "average_volume": "1822443",
+            "rating": "3"
+        }
+    },
+    "TEX": {
+        "TEX": {
+            "collection_date": "2024-08-06 13:44:57",
+            "price": "54.515",
+            "gex_flip_price": "64.34",
+            "skew_adjusted_gex": "171353.84986861752",
+            "gex_per_1pct_chg": "-499573.9063225",
+            "call_put_delta_spread": "0.09956826039472161",
+            "implied_volatility": "0.5514234424603175",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "166573.06726371674",
+            "put_call_ratio_open_interest": "2.57",
+            "gamma_formation": "0",
+            "average_volume": "1416441",
+            "rating": "1"
+        }
+    },
+    "URI": {
+        "URI": {
+            "collection_date": "2024-08-06 14:08:41",
+            "price": "685.775",
+            "gex_flip_price": "697.18",
+            "skew_adjusted_gex": "128764.67660112499",
+            "gex_per_1pct_chg": "-1740063.1973124999",
+            "call_put_delta_spread": "0.015253465769157343",
+            "implied_volatility": "0.4339618055555555",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-32017.16283054999",
+            "put_call_ratio_open_interest": "1.36",
+            "gamma_formation": "0",
+            "average_volume": "580355",
+            "rating": "3"
+        }
+    },
+    "ASC": {
+        "ASC": {
+            "collection_date": "2022-11-17 03:24:53",
+            "price": "13.76",
+            "gex_flip_price": "13.75",
+            "skew_adjusted_gex": "389.654887424",
+            "gex_per_1pct_chg": "-668.361728",
+            "call_put_delta_spread": "0.14462482588303321",
+            "implied_volatility": "0.5512657936507936",
+            "next_expiration": "2022-11-18",
+            "nearest_gex_value": "4588.655430656",
+            "put_call_ratio_open_interest": "1.19",
+            "gamma_formation": "0",
+            "average_volume": "608662",
+            "rating": "None"
+        }
+    },
+    "PERI": {
+        "PERI": {
+            "collection_date": "2023-03-07 20:52:08",
+            "price": "36.41",
+            "gex_flip_price": "19.6",
+            "skew_adjusted_gex": "-871997.5301149748",
+            "gex_per_1pct_chg": "1495707.5988249998",
+            "call_put_delta_spread": "0.13490392526849354",
+            "implied_volatility": "0.3818377579365079",
+            "next_expiration": "2023-03-17",
+            "nearest_gex_value": "-352972.54332240997",
+            "put_call_ratio_open_interest": "0.42",
+            "gamma_formation": "6",
+            "average_volume": "780224",
+            "rating": "None"
+        }
+    },
+    "TGLS": {
+        "TGLS": {
+            "collection_date": "2021-12-17 15:28:20",
+            "price": "24.45",
+            "gex_flip_price": "21.25",
+            "skew_adjusted_gex": "-122943.51217169999",
+            "gex_per_1pct_chg": "210880.8099",
+            "call_put_delta_spread": "0.12076384434195446",
+            "implied_volatility": "0.945910346215781",
+            "next_expiration": "2021-12-17",
+            "nearest_gex_value": "-107082.41896687499",
+            "put_call_ratio_open_interest": "0.88",
+            "gamma_formation": "0",
+            "average_volume": "128269",
+            "rating": "None"
+        }
+    },
+    "ACLS": {
+        "ACLS": {
+            "collection_date": "2023-02-02 18:43:14",
+            "price": "119.85",
+            "gex_flip_price": "32.5",
+            "skew_adjusted_gex": "-72671.180833125",
+            "gex_per_1pct_chg": "211869.331875",
+            "call_put_delta_spread": "0.07433817126440617",
+            "implied_volatility": "0.5568520461309524",
+            "next_expiration": "2023-02-17",
+            "nearest_gex_value": "-40400.2496835",
+            "put_call_ratio_open_interest": "0.53",
+            "gamma_formation": "0",
+            "average_volume": "437188",
+            "rating": "None"
+        }
+    },
+    "CAAP": {
+        "CAAP": {
+            "collection_date": "2021-06-03 09:25:27",
+            "price": "5.73",
+            "gex_flip_price": "6.25",
+            "skew_adjusted_gex": "-2259.0814743180003",
+            "gex_per_1pct_chg": "3307.5863460000005",
+            "call_put_delta_spread": "0.12639426026450423",
+            "implied_volatility": "1.1923724702380953",
+            "next_expiration": "2021-06-18",
+            "nearest_gex_value": "-109.10700999000002",
+            "put_call_ratio_open_interest": "0.02",
+            "gamma_formation": "0",
+            "average_volume": "205840",
+            "rating": "None"
+        }
+    },
+    "POWL": {
+        "POWL": {
+            "collection_date": "2024-06-20 01:12:23",
+            "price": "164.27",
+            "gex_flip_price": "172.95",
+            "skew_adjusted_gex": "54608.80159973001",
+            "gex_per_1pct_chg": "-159209.33411000003",
+            "call_put_delta_spread": "0.07957751344154795",
+            "implied_volatility": "0.5849744965277778",
+            "next_expiration": "2024-06-21",
+            "nearest_gex_value": "37208.030920494006",
+            "put_call_ratio_open_interest": "1.2",
+            "gamma_formation": "0",
+            "average_volume": "386090",
+            "rating": "1"
+        }
+    },
+    "UBER": {
+        "UBER": {
+            "collection_date": "2024-08-06 13:57:49",
+            "price": "61.89",
+            "gex_flip_price": "61.08",
+            "skew_adjusted_gex": "-407247.45989526",
+            "gex_per_1pct_chg": "3016647.851076",
+            "call_put_delta_spread": "0.0254949264838093",
+            "implied_volatility": "0.456689429563492",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-1179805.5507489303",
+            "put_call_ratio_open_interest": "0.78",
+            "gamma_formation": "0",
+            "average_volume": "23219613",
+            "rating": "5"
+        }
+    },
+    "CRM": {
+        "CRM": {
+            "collection_date": "2024-08-06 13:52:21",
+            "price": "242.3",
+            "gex_flip_price": "248.54",
+            "skew_adjusted_gex": "1366003.7277525004",
+            "gex_per_1pct_chg": "-10118546.131500002",
+            "call_put_delta_spread": "0.04718840351527792",
+            "implied_volatility": "0.506608492063492",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "460327.8010320001",
+            "put_call_ratio_open_interest": "0.89",
+            "gamma_formation": "0",
+            "average_volume": "4868014",
+            "rating": "1"
+        }
+    },
+    "AMPH": {
+        "AMPH": {
+            "collection_date": "2021-06-03 00:57:46",
+            "price": "18.85",
+            "gex_flip_price": "32.5",
+            "skew_adjusted_gex": "775.6512513750001",
+            "gex_per_1pct_chg": "-2014.6785750000004",
+            "call_put_delta_spread": "0.04260979058399125",
+            "implied_volatility": "0.8720021577380952",
+            "next_expiration": "2021-06-18",
+            "nearest_gex_value": "271.9816076250001",
+            "put_call_ratio_open_interest": "6.18",
+            "gamma_formation": "0",
+            "average_volume": "217705",
+            "rating": "None"
+        }
+    },
+    "GRBK": {
+        "GRBK": {
+            "collection_date": "2023-06-07 22:51:47",
+            "price": "55.14",
+            "gex_flip_price": "20.35",
+            "skew_adjusted_gex": "-14611.4964927",
+            "gex_per_1pct_chg": "62176.58082",
+            "call_put_delta_spread": "0.06297300575197337",
+            "implied_volatility": "0.42596903769841266",
+            "next_expiration": "2023-06-16",
+            "nearest_gex_value": "-4965.765311699999",
+            "put_call_ratio_open_interest": "0.69",
+            "gamma_formation": "0",
+            "average_volume": "506423",
+            "rating": "None"
+        }
+    },
+    "STRL": {
+        "STRL": {
+            "collection_date": "2020-04-14 20:21:17",
+            "price": "8.96",
+            "gex_flip_price": "11.25",
+            "skew_adjusted_gex": "-2912.1989836800008",
+            "gex_per_1pct_chg": "4142.530560000001",
+            "call_put_delta_spread": "0.09633383913069904",
+            "implied_volatility": "0.6048953699737846",
+            "next_expiration": "2020-04-17",
+            "nearest_gex_value": "-616.5442232320001",
+            "put_call_ratio_open_interest": "0.29",
+            "gamma_formation": "None",
+            "average_volume": "126193",
+            "rating": "None"
+        }
+    },
+    "META": {
+        "META": {
+            "collection_date": "2024-08-06 13:35:11",
+            "price": "481.245",
+            "gex_flip_price": "462.49",
+            "skew_adjusted_gex": "-10503977.958683867",
+            "gex_per_1pct_chg": "141945648.09032252",
+            "call_put_delta_spread": "0.013455700719520625",
+            "implied_volatility": "0.42542079861111104",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-2057607.4297921108",
+            "put_call_ratio_open_interest": "0.8",
+            "gamma_formation": "0",
+            "average_volume": "17552342",
+            "rating": "3"
+        }
+    },
+    "GOOGL": {
+        "GOOGL": {
+            "collection_date": "2024-08-06 14:12:17",
+            "price": "157.14",
+            "gex_flip_price": "163.96",
+            "skew_adjusted_gex": "-4183173.9661486316",
+            "gex_per_1pct_chg": "-49098285.98766",
+            "call_put_delta_spread": "-0.014152828722780952",
+            "implied_volatility": "0.3203313492063492",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-547335.4987971071",
+            "put_call_ratio_open_interest": "0.91",
+            "gamma_formation": "0",
+            "average_volume": "39137115",
+            "rating": "3"
+        }
+    },
+    "TMUS": {
+        "TMUS": {
+            "collection_date": "2024-08-06 13:43:55",
+            "price": "189.205",
+            "gex_flip_price": "178.36",
+            "skew_adjusted_gex": "-642810.9705271089",
+            "gex_per_1pct_chg": "4761562.744645251",
+            "call_put_delta_spread": "0.027110962295364055",
+            "implied_volatility": "0.2599714781746032",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "591293.3030899315",
+            "put_call_ratio_open_interest": "1.17",
+            "gamma_formation": "0",
+            "average_volume": "4592198",
+            "rating": "5"
+        }
+    },
+    "ANF": {
+        "ANF": {
+            "collection_date": "2024-08-06 13:35:41",
+            "price": "136.65",
+            "gex_flip_price": "145.23",
+            "skew_adjusted_gex": "453147.7587131251",
+            "gex_per_1pct_chg": "-1321130.491875",
+            "call_put_delta_spread": "0.08866578420661064",
+            "implied_volatility": "0.8462519246031746",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "46243.48859235001",
+            "put_call_ratio_open_interest": "1.19",
+            "gamma_formation": "0",
+            "average_volume": "1777126",
+            "rating": "1"
+        }
+    },
+    "CLS": {
+        "CLS": {
+            "collection_date": "2024-07-08 19:40:49",
+            "price": "59.1",
+            "gex_flip_price": "43.75",
+            "skew_adjusted_gex": "-975798.5545350001",
+            "gex_per_1pct_chg": "2844893.745",
+            "call_put_delta_spread": "0.11832375938233902",
+            "implied_volatility": "0.5839221354166667",
+            "next_expiration": "2024-07-19",
+            "nearest_gex_value": "-592367.8272435002",
+            "put_call_ratio_open_interest": "0.5",
+            "gamma_formation": "6",
+            "average_volume": "1122303",
+            "rating": "4"
+        }
+    },
+    "MFC": {
+        "MFC": {
+            "collection_date": "2024-02-14 18:01:04",
+            "price": "22.66",
+            "gex_flip_price": "22.9",
+            "skew_adjusted_gex": "95491.65809845201",
+            "gex_per_1pct_chg": "-278401.335564",
+            "call_put_delta_spread": "0.08228537485956641",
+            "implied_volatility": "0.20912062251984126",
+            "next_expiration": "2024-02-16",
+            "nearest_gex_value": "170688.76306482",
+            "put_call_ratio_open_interest": "1.89",
+            "gamma_formation": "0",
+            "average_volume": "3588699",
+            "rating": "1"
+        }
+    },
+    "APP": {
+        "APP": {
+            "collection_date": "2024-07-08 16:13:00",
+            "price": "85.235",
+            "gex_flip_price": "74.3",
+            "skew_adjusted_gex": "-2334982.0511717405",
+            "gex_per_1pct_chg": "6807527.845981751",
+            "call_put_delta_spread": "0.10090821959074459",
+            "implied_volatility": "0.6469163888888889",
+            "next_expiration": "2024-07-12",
+            "nearest_gex_value": "-42511.75927450551",
+            "put_call_ratio_open_interest": "0.46",
+            "gamma_formation": "0",
+            "average_volume": "1234447",
+            "rating": "5"
+        }
+    },
+    "CMCSA": {
+        "CMCSA": {
+            "collection_date": "2024-08-06 13:53:19",
+            "price": "39.385",
+            "gex_flip_price": "38.84",
+            "skew_adjusted_gex": "-290136.2531495625",
+            "gex_per_1pct_chg": "2149157.4307375",
+            "call_put_delta_spread": "0.020598580103138114",
+            "implied_volatility": "0.33353606150793647",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "137370.24951539625",
+            "put_call_ratio_open_interest": "0.85",
+            "gamma_formation": "0",
+            "average_volume": "13641911",
+            "rating": "5"
+        }
+    },
+    "PEP": {
+        "PEP": {
+            "collection_date": "2024-08-06 13:51:00",
+            "price": "175.44",
+            "gex_flip_price": "167.07",
+            "skew_adjusted_gex": "-4024136.40757056",
+            "gex_per_1pct_chg": "29808417.833855998",
+            "call_put_delta_spread": "0.02122666417172303",
+            "implied_volatility": "0.22905560515873016",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-379909.1255644801",
+            "put_call_ratio_open_interest": "0.83",
+            "gamma_formation": "0",
+            "average_volume": "4511029",
+            "rating": "5"
+        }
+    },
+    "TWLO": {
+        "TWLO": {
+            "collection_date": "2024-08-06 13:30:51",
+            "price": "60.285",
+            "gex_flip_price": "54.58",
+            "skew_adjusted_gex": "-456882.5739165075",
+            "gex_per_1pct_chg": "3384315.3623444997",
+            "call_put_delta_spread": "0.04097988214461576",
+            "implied_volatility": "0.43308049603174603",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-170610.9686795025",
+            "put_call_ratio_open_interest": "0.49",
+            "gamma_formation": "0",
+            "average_volume": "2522697",
+            "rating": "5"
+        }
+    },
+    "OKTA": {
+        "OKTA": {
+            "collection_date": "2024-08-06 14:06:44",
+            "price": "83.16",
+            "gex_flip_price": "75.42",
+            "skew_adjusted_gex": "-925026.724336176",
+            "gex_per_1pct_chg": "2696870.9164319998",
+            "call_put_delta_spread": "0.08592252966802263",
+            "implied_volatility": "0.7554463095238095",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-282842.748441792",
+            "put_call_ratio_open_interest": "0.37",
+            "gamma_formation": "0",
+            "average_volume": "1522834",
+            "rating": "5"
+        }
+    },
+    "CAH": {
+        "CAH": {
+            "collection_date": "2024-08-06 14:06:21",
+            "price": "99.67",
+            "gex_flip_price": "85.5",
+            "skew_adjusted_gex": "-674991.4073119651",
+            "gex_per_1pct_chg": "4999936.350459001",
+            "call_put_delta_spread": "0.04814554869836518",
+            "implied_volatility": "0.3545541666666666",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-29450.659244940005",
+            "put_call_ratio_open_interest": "0.44",
+            "gamma_formation": "6",
+            "average_volume": "985137",
+            "rating": "4"
+        }
+    },
+    "RCL": {
+        "RCL": {
+            "collection_date": "2024-08-06 13:55:40",
+            "price": "151.013",
+            "gex_flip_price": "133.79",
+            "skew_adjusted_gex": "-978416.1669754486",
+            "gex_per_1pct_chg": "13221840.09426282",
+            "call_put_delta_spread": "0.01827466582877027",
+            "implied_volatility": "0.40178807043650794",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-307440.50726066314",
+            "put_call_ratio_open_interest": "0.62",
+            "gamma_formation": "0",
+            "average_volume": "2703031",
+            "rating": "3"
+        }
+    },
+    "EAT": {
+        "EAT": {
+            "collection_date": "2024-08-06 13:44:32",
+            "price": "59.96",
+            "gex_flip_price": "68.03",
+            "skew_adjusted_gex": "48721.92041908801",
+            "gex_per_1pct_chg": "-142046.41521600002",
+            "call_put_delta_spread": "0.10011434281353107",
+            "implied_volatility": "0.6597861954365078",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "81597.810026096",
+            "put_call_ratio_open_interest": "0.98",
+            "gamma_formation": "5",
+            "average_volume": "2125168",
+            "rating": "2"
+        }
+    },
+    "GCT": {
+        "GCT": {
+            "collection_date": "2024-07-23 15:03:36",
+            "price": "29.1",
+            "gex_flip_price": "26.93",
+            "skew_adjusted_gex": "-12497.391342",
+            "gex_per_1pct_chg": "92573.2692",
+            "call_put_delta_spread": "0.035562492844001814",
+            "implied_volatility": "0.6209152777777779",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "-4597.9242570000015",
+            "put_call_ratio_open_interest": "0.79",
+            "gamma_formation": "0",
+            "average_volume": "2711648",
+            "rating": "5"
+        }
+    },
+    "GM": {
+        "GM": {
+            "collection_date": "2024-08-06 13:36:47",
+            "price": "39.83",
+            "gex_flip_price": "40.46",
+            "skew_adjusted_gex": "-158690.34326125678",
+            "gex_per_1pct_chg": "-1862562.714334",
+            "call_put_delta_spread": "-0.001805308870209299",
+            "implied_volatility": "0.368095808531746",
+            "next_expiration": "2024-08-09",
+            "nearest_gex_value": "-18268.731406564802",
+            "put_call_ratio_open_interest": "0.87",
+            "gamma_formation": "0",
+            "average_volume": "16719709",
+            "rating": "3"
+        }
+    },
+    "SFM": {
+        "SFM": {
+            "collection_date": "2024-08-06 14:06:56",
+            "price": "94.82",
+            "gex_flip_price": "83.07",
+            "skew_adjusted_gex": "-70798.75927541999",
+            "gex_per_1pct_chg": "524435.2538919998",
+            "call_put_delta_spread": "0.03933636355290704",
+            "implied_volatility": "0.37299045634920636",
+            "next_expiration": "2024-08-16",
+            "nearest_gex_value": "-86711.18399856001",
+            "put_call_ratio_open_interest": "1.36",
+            "gamma_formation": "6",
+            "average_volume": "1261378",
+            "rating": "4"
+        }
+    }
+}
